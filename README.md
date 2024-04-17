@@ -1,4 +1,4 @@
-# Krypt - Web 3.0 Blockchain Application
+# Krypt Innovation - Web 3.0 Blockchain Application
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
 ### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
